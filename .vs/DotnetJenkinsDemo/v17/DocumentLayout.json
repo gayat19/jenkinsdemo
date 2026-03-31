@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Gayathri Mahadevan\\jenkins-docker-demo\\dotnet-demo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7992B4-5C10-4F31-9C38-D4D95EE79C9B}|DemoApp.Tests\\DemoApp.Tests.csproj|c:\\users\\gayathri mahadevan\\jenkins-docker-demo\\dotnet-demo\\demoapp.tests\\demoapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC7992B4-5C10-4F31-9C38-D4D95EE79C9B}|DemoApp.Tests\\DemoApp.Tests.csproj|solutionrelative:demoapp.tests\\demoapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AAFA87-27F5-4D06-A287-3089934F24B2}|DemoApp\\DemoApp.csproj|c:\\users\\gayathri mahadevan\\jenkins-docker-demo\\dotnet-demo\\demoapp\\demoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31AAFA87-27F5-4D06-A287-3089934F24B2}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\demoapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoApp.Tests",
+              "DocumentMoniker": "C:\\Users\\Gayathri Mahadevan\\jenkins-docker-demo\\dotnet-demo\\DemoApp.Tests\\DemoApp.Tests.csproj",
+              "RelativeDocumentMoniker": "DemoApp.Tests\\DemoApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\Gayathri Mahadevan\\jenkins-docker-demo\\dotnet-demo\\DemoApp.Tests\\DemoApp.Tests.csproj",
+              "RelativeToolTip": "DemoApp.Tests\\DemoApp.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T07:29:17.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoApp",
+              "DocumentMoniker": "C:\\Users\\Gayathri Mahadevan\\jenkins-docker-demo\\dotnet-demo\\DemoApp\\DemoApp.csproj",
+              "RelativeDocumentMoniker": "DemoApp\\DemoApp.csproj",
+              "ToolTip": "C:\\Users\\Gayathri Mahadevan\\jenkins-docker-demo\\dotnet-demo\\DemoApp\\DemoApp.csproj",
+              "RelativeToolTip": "DemoApp\\DemoApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T07:29:11.985Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
